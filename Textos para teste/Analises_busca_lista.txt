@@ -1,0 +1,12 @@
+Lista:
+busca god
+4446 ocorrências
+1ª busca: 4775 ms
+2ª busca: 4701 ms
+3ª busca: 4733 ms
+4ª busca: 4773 ms
+5ª busca: 4936 ms
+
+busca the
+64184 ocorrências
+1ª busca: 45853 ms
